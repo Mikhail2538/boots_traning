@@ -1,0 +1,31 @@
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.carousel-control-prev-icon {
+  background-image: url(../img/icons8-назад-64.png);
+}
+
+.carousel-control-next-icon {
+  background-image: url(../img/icons8-вперед-64.png);
+}
+
+.carousel-control-prev, .carousel-control-next {
+  width: 20px;
+}
+
+.carousel-control-prev {
+  left: -35px;
+}
+
+.carousel-control-next {
+  right: -35px;
+}
+
+.btn-group {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
